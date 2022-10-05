@@ -93,7 +93,7 @@ def banner():
 
                       
 \x1b[92;1m===================================>\x1b[92;1m
-\x1b[93;1m Play boy       \x1b[92;1m=>      \x1b[93;1mTalha islam
+\x1b[93;1m Play boy       \x1b[92;1m=>      \x1b[93;1m PLAY BOY 
 \x1b[93;1m Whatsapp     \x1b[92;1m=>      \x1b[93;1m+8801979526394
 \x1b[93;1m YouTube       \x1b[92;1m=>      \x1b[93;1mTermux help center 
 \x1b[92;1m===================================>\x1b[92;1m
